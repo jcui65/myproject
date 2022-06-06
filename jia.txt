@@ -1,1 +1,2 @@
 This time let's try public repo!
+From Rahul I know that it seems that currently SSH is the only way, regardless of private or public repos!
